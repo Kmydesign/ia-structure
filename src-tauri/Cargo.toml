@@ -1,0 +1,32 @@
+[package]
+name = "ia-structure"
+version = "1.0.0"
+description = "IA Structure - Visual Architecture & Workflow Tool"
+authors = ["you"]
+license = ""
+repository = ""
+edition = "2021"
+
+[build-dependencies]
+tauri-build = { version = "1.5", features = [] }
+
+[dependencies]
+tauri = { version = "1.6", features = [ "fs-exists", "fs-create-dir",
+  "dialog-open",
+  "fs-read-file",
+  "fs-write-file",
+  "path-all",
+  "protocol-asset",
+  "shell-open",
+  "window-close",
+  "window-set-title",
+] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+notify = "6.1"
+walkdir = "2.4"
+open = "5.0"
+
+[features]
+default = ["custom-protocol"]
+custom-protocol = ["tauri/custom-protocol"]
