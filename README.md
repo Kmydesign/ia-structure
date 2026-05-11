@@ -2,6 +2,10 @@
 
 Local-first desktop app that turns Markdown docs into interactive workflow diagrams. Built with Tauri, React, React Flow & ELK.js, it parses any team's Markdown into flowcharts showing steps, decisions, errors & page relationships. Dark mode, offline-first, live file watching, tab-based preview.
 
+## Support
+
+<a href="https://www.buymeacoffee.com/Kmydesign"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Kmydesign&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 ## Features
 
 - Import any folder of Markdown files
@@ -89,3 +93,5 @@ src-tauri/          # Rust backend
 ## License
 
 [MIT](LICENSE)
+
+
