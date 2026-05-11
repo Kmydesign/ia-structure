@@ -4,7 +4,7 @@ Local-first desktop app that turns Markdown docs into interactive workflow diagr
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/Kmydesign"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Kmydesign&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=Kmydesign&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/Kmydesign)
 
 ## Features
 
